@@ -15,8 +15,6 @@ This project visualizes data using various charts.
 ### 3. Navigate to project folder
 ```bash
 cd scrollmark-assignment
-```bash
 npm install
-```bash
 npm start
 
